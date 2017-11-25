@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World - First Post
+title: First Post - Hello World
 ---
 
-Hello World! 
+Welcome to my personal website. 
